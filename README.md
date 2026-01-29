@@ -34,6 +34,4 @@ Let’s connect and learn together! ❤✌
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahNaeemRao&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNaeemRao&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
 
-![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahNaeemRao&show_icons=true&hide_border=true)
 
-[![An image of @AbdullahNaeemRao's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/AbdullahNaeemRao)](https://holopin.io/@AbdullahNaeemRao)
